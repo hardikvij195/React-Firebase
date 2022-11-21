@@ -1,0 +1,28 @@
+Javascript Tut =>
+
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+
+console.log("Welcome to Programiz!");
+//Comments With Double Slash
+
+// name = "hardik"
+// num = 20
+// dec = 22.22
+// console.log(name)
+// console.log(num)
+// console.log(dec)
+
+
+// food = 20
+// tip = 0.2
+// tipAmt = food * tip
+
+// console.log("Tip : " + tipAmt)
+
+
+food = prompt("How much food ?")
+tip = 0.2
+tipAmt = food * tip
+
+console.log("Tip : " + tipAmt)
